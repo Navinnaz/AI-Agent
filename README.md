@@ -126,6 +126,7 @@ Feature: Tracking the progress of the API, search results processes using a Prog
 Purpose: Users can be able to track the output processings progress with the help of a visual and dynamic Progress Bar in the Application.
 
 ---
+## Loom Video Guide
 
 ## License
 
