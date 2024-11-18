@@ -153,7 +153,7 @@ if df is not None and not df.empty:
                 data = {
                     "model": "llama-3.2-1b-preview",
                     "messages": [{"role": "user", "content": generate_dynamic_query(entity, information_type, query_template, dataset_description) + f"\n\nWeb Results:\n{search_results}"}],
-                    "max_tokens": 500,
+                    "max_tokens": 100,
                     "temperature": 0.5
                 }
                 response_data = process_with_retry(data, api_url, headers)
