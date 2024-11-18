@@ -107,6 +107,25 @@ The Groq API is used for extracting information from web search results. It proc
 ---
 
 ## Additional features
+While the core features align with the outlined requirements, several additional functionalities have been incorporated into the project to enhance user experience and flexibility:
+
+### 1. Dynamic Dataset Description
+Feature: A dynamic description of the dataset is generated based on the columns of the uploaded CSV or Google Sheet.
+Purpose: This feature helps users understand the structure and content of the dataset before proceeding with further actions, enhancing usability.
+### 2. Parallel Web Search and Data Extraction
+Feature: The web search and LLM processing are handled in parallel for multiple entities to speed up the data retrieval and extraction process.
+Purpose: This enables quicker processing of large datasets, ensuring a smooth user experience even with many entities.
+### 3. Retry Mechanism for API Calls
+Feature: A retry mechanism is implemented for both web searches and LLM processing to handle issues like rate limits or temporary failures in API calls.
+Purpose: Ensures reliability and robustness of the system, reducing the chances of failures due to external service interruptions or rate-limiting issues.
+### 4. User-friendly and Robust Error Handling
+Feature: Detailed error messages and status updates are provided to users throughout the process.
+Purpose: Users are kept informed in case of errors, which helps them understand and correct any issues with their input or the system.
+### 5. Progress Bar
+Feature: Tracking the progress of the API, search results processes using a Progress Bar.
+Purpose: Users can be able to track the output processings progress with the help of a visual and dynamic Progress Bar in the Application.
+
+---
 
 ## License
 
