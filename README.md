@@ -1,9 +1,5 @@
-# AI-Agent
-Here’s a sample README file based on the provided code:
-
+# AI-Agent: AI Data Extraction Dashboard
 ---
-
-# AI Data Extraction Dashboard
 
 ## Project Summary
 
