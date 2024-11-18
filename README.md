@@ -127,10 +127,7 @@ Purpose: Users can be able to track the output processings progress with the hel
 
 ---
 ## Loom Video Guide
-https://github.com/user-attachments/assets/02b27aad-e98b-491c-ab39-5663315a0572
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+https://github.com/user-attachments/assets/740b5a8d-c9b1-4d6a-b30f-b0b945751be9
 
 ---
 
