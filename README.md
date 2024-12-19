@@ -122,9 +122,5 @@ Feature: Tracking the progress of the API, search results processes using a Prog
 Purpose: Users can be able to track the output processings progress with the help of a visual and dynamic Progress Bar in the Application.
 
 ---
-## Loom Video Guide
-https://github.com/user-attachments/assets/740b5a8d-c9b1-4d6a-b30f-b0b945751be9
-
----
 
 This README provides an overview of how to set up, use, and understand the dependencies of the AI Data Extraction Dashboard project.
